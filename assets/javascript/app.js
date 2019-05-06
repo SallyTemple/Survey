@@ -2,37 +2,37 @@ var panel = $("#quiz-area");
 
 // Question set
 var questions = [{
-  question: "What is Nadisha favorite movie?",
-  answers: ["The Butler", "Men In Black", "Black Panther", "Training Day"],
-  correctAnswer: "Black Panther"
+  question: "What percentage of school leavers and graduates believe that it is important to have fun at work?",
+  answers: ["50%", "32%", "79%", "83%"],
+  correctAnswer: "79%"
 }, {
-  question: "Who is Nadisha favorite movie star?",
-  answers: ["Tyler Perry", "Kevin Hart", "Halle Berry", "Will Smith"],
-  correctAnswer: "Kevin Hart"
+  question: "During thinking, how much percentage of our brains do we use?",
+  answers: ["71%", "35%", "58%", "40%"],
+  correctAnswer: "35%"
 }, {
-  question: "What is Nadisha favorite sports team?",
-  answers: ["New York Knicks", "Portland Trailblazers", "Los Angeles Lakers", "Nets and the Mets"],
-  correctAnswer: "Nets and the Mets"
+  question: "What country was paper invented in?",
+  answers: ["China", "United States", "England", "Japan"],
+  correctAnswer: "China"
 }, {
-  question: "What artist sings Nadisha favorite song?",
-  answers: ["Tarrus Riley", "Buju Banton", "Shaggy", "Red Rat"],
-  correctAnswer: "Tarrus Riley"
+  question: "According to Maslow’s hierarchy of needs what is the final employees need after completing all of the others?",
+  answers: ["Love and Belonging", "Safety", "Self-Actualization", "Psychological Needs"],
+  correctAnswer: "Self-Actualization"
 }, {
-  question: "What is Nadisha favorite book?",
-  answers: ["The Kite Runner", "Romeo and Juliet", "The Chronicles of Narnia", "The Bible"],
-  correctAnswer: "The Bible"
+  question: "What percentage of workers believe having access to social media platforms helps them to be more productive?",
+  answers: ["20%", "39%", "65%", "53%"],
+  correctAnswer: "39%"
 }, {
-  question: "What is Nadisha favorite food?",
-  answers: ["Curry Chicken", "Beef Patty", "Stew peas and Great Nut Icecream", "Fried Plantains"],
-  correctAnswer: "Stew peas and Great Nut Icecream"
+  question: "Which company allows colleagues to bring their dog into the office?",
+  answers: ["Amazon", "Ikea", "Microsoft", "Samsung"],
+  correctAnswer: "Amazon"
 }, {
-  question: "What is Nadisha favorite holiday?",
-  answers: ["Christmas", "Labor Day", "Birthday", "Easter"],
-  correctAnswer: "Christmas"
+  question: "How many minutes a day does the average office worker spend looking for lost files and other items?",
+  answers: ["20 minutes", "15 minutes", "50 minutes", "35 minutes"],
+  correctAnswer: "50 minutes"
 }, {
-  question: "What Nadisha favorite memory?",
-  answers: ["Migrating to the US", "Scuba Diving in the Ocean", "Wedding Day and Birth of Children", "Learning to Drive"],
-  correctAnswer: "Wedding Day and Birth of Children"
+  question: "During an average day, how many miles does a typist’s fingers travel?",
+  answers: ["6 miles", "3.5 miles", "12.6 miles", "9.7 miles"],
+  correctAnswer: "12.6 miles"
 }];
 
 // Variable that will hold the setInterval
